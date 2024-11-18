@@ -30,6 +30,8 @@ Install the required libraries using:
 ```bash
 pip install os pandas streamlit langchain requests beautifulsoup4
 
+---
+
 ## usage
 Clone this repository:
 ```bash
